@@ -127,7 +127,7 @@ function App() {
             <p>住所:東京都調布市布田3-53-3</p>
             <p>アクセス:京王線「布田駅」徒歩５分</p>
             <p>詳細:<a href = "https://byre-chofu.com/" className='text-cyan-700 text-[min(3vw,30px)] hover:text-cyan-900 hover:underline'>Vintage&Used BYRE公式サイト</a></p>
-            <p>特典:お会計位から10%割引!</p></h4> 
+            <p>特典:お会計から10%割引!</p></h4> 
             <h2><a name = "spot5"><div id = "spots" className=' text-[min(4vw,40px)] mt-20 border-solid border-2 border-cyan-700 rounded'>05 深大寺、植物園、温泉で喧騒から離れてゆったり <br/>(調布駅)[約3時間半]</div>
             <p className='text-[min(5vw,50px)] underline decoration-red-200'>[深大寺 → 神代植物公園 → 深大寺天然温泉 湯守の里]</p></a></h2>
         <img src="深大寺.jpeg"  className=' w-full  md:w-2/3 h-[20rem] md:h-[40rem]'/><br/>
