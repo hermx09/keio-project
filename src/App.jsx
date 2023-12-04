@@ -46,7 +46,7 @@ function App() {
    <a href = "#" className='fixed right-5 bottom-5'><img src="arrow.png" className='h-10 w-10  md:h-20 md:w-20 rounded-full opacity-50 hover:opacity-80 ' /></a>
    <p></p>
         <a name= "Contents" className=' text-[min(5vw,60px)] underline decoration-red-200 mt-10'>京王沿線のスポットを楽しめるコース13選</a>
-        <h2 className=' text-[min(3vw,30px)]'>第二回京王線スポット総選挙に出ていた観光スポットを絡めた13個のコースをご紹介します。おおよその所要時間と特典について記載しているので、休みの日や大学の授業の空きコマ等に電車で遊びに行ってみては?</h2>
+        <h2 className=' text-[min(3vw,30px)]'>第二回京王線スポット総選挙に出ていたスポットを絡めた13個のコースをご紹介します。おおよその所要時間と特典について記載しているので、休みの日や大学の授業の空きコマ等に電車で遊びに行ってみては?</h2>
         <p></p>
         <p></p>
         <ol className='border-solid border-2 border-gray-300 text-cyan-700 text-[min(3vw,30px)] ' >
