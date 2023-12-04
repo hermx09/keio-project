@@ -150,8 +150,8 @@ function App() {
                     <p>住所:東京都調布市深大寺元町２-12-2</p>
                     <p>アクセス:京王線「調布駅」より無料シャトルバス10分</p>
                     <p>詳細:<a href = "https://www.yumorinosato.com" className='text-cyan-700 text-[min(3vw,30px)] hover:text-cyan-900 hover:underline'>深大寺天然温泉　湯守の里公式サイト</a></p></h4>
-        <h2><a name = "spot6"><div id = "spots" className=' text-[min(4vw,40px)] mt-20 border-solid border-2 border-cyan-700 rounded'>06 映えるお寺カフェの後は食べ歩き <br/>(仙川駅)[約2時間:特典あり]</div>
-        <p className='text-[min(5vw,50px)] underline decoration-red-200'>[一龍院 → 仙川商店街]</p></a></h2>
+        <h2><a name = "spot6"></a><div id = "spots" className=' text-[min(4vw,40px)] mt-20 border-solid border-2 border-cyan-700 rounded'>06 映えるお寺カフェの後は食べ歩き <br/>(仙川駅)[約2時間:特典あり]</div>
+        <p className='text-[min(5vw,50px)] underline decoration-red-200'>[一龍院 → 仙川商店街]</p></h2>
         <img src="ichi.jpg"  className=' w-full  md:w-2/3'/><br/>
         <h3 className=' text-[min(3vw,30px)]'>他では見られない御朱印のデザイン、お寺の一部を改装した斬新なカフェを楽しんだあとは、最寄駅の仙川商店街へ。</h3>
         <img src="仙川商店街.jpeg"  className=' object-cover w-full  md:w-2/3 h-[20rem] md:h-[40rem]'/><br/>
