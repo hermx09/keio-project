@@ -15,7 +15,9 @@ export default {
     animation:{
       fadeIn:"fadeIn 2.0s linear"
     },
-    
+    objectPosition: {
+      'center-top': 'center top',
+    },
     },
   },
   plugins: [],
