@@ -37,7 +37,7 @@ function App() {
       京王線スポット総選挙とは、「10月1日~11月15日」の期間で主に大学生を中心に行われた、京王沿線のスポットの人気総選挙です!
       今回は第二回で、結果はポスターの画像の通りです。<p></p>
       今回紹介するコースの中で、<span className=' font-medium text-red-300'>京王線スポット総選挙を見た</span>と伝えれば、おまけや割引が受けられるスポットもあるので
-      ぜひ立ち寄ってみてはいかがですか？
+      ぜひ立ち寄ってみてはいかがですか？(特典の有効期限は2023年12月31日までです)
      </div>
     </div>
     
@@ -127,7 +127,7 @@ function App() {
             <p>住所:東京都調布市布田3-53-3</p>
             <p>アクセス:京王線「布田駅」徒歩５分</p>
             <p>詳細:<a href = "https://byre-chofu.com/" className='text-cyan-700 text-[min(3vw,30px)] hover:text-cyan-900 hover:underline'>Vintage&Used BYRE公式サイト</a></p>
-            <p>特典:お会計から10%割引!</p></h4> 
+            <p>特典:お会計から10%割引!(有効期限:2023年12月31日まで)</p></h4> 
             <h2><a name = "spot5"><div id = "spots" className=' text-[min(4vw,40px)] mt-20 border-solid border-2 border-cyan-700 rounded'>05 深大寺、植物園、温泉で喧騒から離れてゆったり <br/>(調布駅)[約3時間半]</div>
             <p className='text-[min(5vw,50px)] underline decoration-red-200'>[深大寺 → 神代植物公園 → 深大寺天然温泉 湯守の里]</p></a></h2>
         <img src="深大寺.jpeg"  className=' w-full  md:w-2/3 h-[20rem] md:h-[40rem]'/><br/>
@@ -160,7 +160,7 @@ function App() {
             <p>住所:東京都調布市入間町1-38-1</p>
             <p>アクセス:京王線「仙川駅」徒歩１５分</p>
             <p>詳細:<a href = "https://www.ichiryuin.com/" className='text-cyan-700 text-[min(3vw,30px)] hover:text-cyan-900 hover:underline'>一龍院公式サイト</a></p>
-            <p>特典:アクリルキーホルダープレゼント!</p></h4>
+            <p>特典:アクリルキーホルダープレゼント!(有効期限:2023年12月31日まで)</p></h4>
         <h4  className='border-solid border-2 border-gray-300 text-[min(3vw,30px)]'><span className=' font-medium'>[infomation:仙川商店街]</span><br/>
                 <p></p>
                 <p>住所:東京都調布市仙川町１丁目６−１０</p>
@@ -230,7 +230,7 @@ function App() {
             <p>住所:東京都八王子市高尾町２１７９</p>
             <p>アクセス:ケーブルカー「高尾山乗り場」徒歩3分</p>
             <p>詳細:<a href="https://www.takao-monkey-park.jp" className='text-cyan-700 text-[min(3vw,30px)] hover:text-cyan-900 hover:underline'>高尾山さる園・野草園公式サイト</a></p>
-            <p>特典:缶バッチプレゼント!</p>
+            <p>特典:缶バッチプレゼント!(有効期限:2023年12月31日まで)</p>
         </h4>
         <h2><a name = "spot13"><div id = "spots" className=' text-[min(4vw,40px)] mt-20 border-solid border-2 border-cyan-700 rounded'>13 内海果樹園の野菜を使った料理で健康的なご飯！ <br/>(八幡山駅)[約2時間:特典あり]</div>
         <p className='text-[min(5vw,50px)] underline decoration-red-200'>[内海果樹園 → さんぱち食堂]</p></a></h2>
@@ -241,7 +241,7 @@ function App() {
             <p>住所:東京都世田谷区千歳台4-10</p>
             <p>アクセス:京王線「八幡山駅」よりバスで「希望ヶ丘団地」下車徒歩10分</p>
             <p>詳細:<a href="https://www.facebook.com/apple.utsumi/?locale=ja_JP" className='text-cyan-700 text-[min(3vw,30px)] hover:text-cyan-900 hover:underline'>内海果樹園公式Facebook</a></p>
-            <p>特典:もしかしたら採れた野菜がもらえるかも!?</p>
+            <p>特典:もしかしたら採れた野菜がもらえるかも!?(有効期限:2023年12月31日まで)</p>
         </h4 >
         
         <Form />
